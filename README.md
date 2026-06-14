@@ -1,6 +1,6 @@
 # CT-Radiomic-OS-NSCLC
 
-CT radiomic and deep learning features for overall survival prediction in non-small cell lung cancer receiving radical radiotherapy.
+Prognostic Value of CT-Derived Radiomic and Deep Learning Features for Overall Survival Prediction in Non-Small Cell Lung Cancer: A Hybrid Feature Modelling Study
 
 ## Overview
 
@@ -111,8 +111,7 @@ Patient imaging data and clinical outcomes are **not included** in this reposito
 If you use this code, please cite:
 
 ```
-Jones D. CT Radiomic Signature for Overall Survival Prediction in Non-Small Cell Lung Cancer
-Receiving Radical Radiotherapy. MSc Thesis, University of Edinburgh; 2026.
+Jones DF. Prognostic Value of CT-Derived Radiomic and Deep Learning Features for Overall Survival Prediction in Non-Small Cell Lung Cancer: A Hybrid Feature Modelling Study. University of Edinburgh; 2026.
 ```
 
 ---
